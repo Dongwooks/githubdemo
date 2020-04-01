@@ -1,0 +1,3 @@
+THis is 1.txt
+
+sdcond line
